@@ -12,3 +12,8 @@ aside {
     float: left;
     width: 40%;
 }
+
+footer {
+    position: absolute;
+    bottom: 10px;
+}
